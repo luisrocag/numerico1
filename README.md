@@ -6,3 +6,5 @@
 [Laboratorio 2: Condicionamiento](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio2.ipynb)
 
 Revisar los algoritmos en (http://sgpwe.izt.uam.mx/pages/cbi/psb/ananum/material_adicional/analisisnum.pdf)
+
+Data (https://www.mathstat.dal.ca/~iron/math3210/hw4data)
