@@ -11,3 +11,4 @@ Data (https://www.mathstat.dal.ca/~iron/math3210/hw4data)
 
 [Laboratorio 3: Factorización LU](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio3.ipynb)
 
+[Laboratorio 3: Factorizaciones ortogonales](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio4.ipynb)
