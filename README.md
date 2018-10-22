@@ -24,4 +24,5 @@ Temas:
 . Procedimientos. Transformación de Givens. Ejemplo.
 
 Laboratorio dia jueves 8 de noviembre
+
 PC4 dia jueves 15 de noviembre
