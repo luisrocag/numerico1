@@ -13,16 +13,5 @@ Data (https://www.mathstat.dal.ca/~iron/math3210/hw4data)
 
 [Laboratorio 4: Factorizaciones ortogonales](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio4.ipynb)
 
-## AVISO IMPORTANTE SOBRE LABORATORIO Y PC4
-
-Temas: 
-. Problema de mínimos cuadrados.
-. Método de Gram-Schmidt.
-. Factorización QR. Propiedad	Transformación de Householder.
-. Propiedades. Resolución numéricade Ax=b, con n>m y rango completo
-. Resolución numérica de Ax=b, con m>n o m<n y rango imcompleto.
-. Procedimientos. Transformación de Givens. Ejemplo.
-
-Laboratorio dia jueves 8 de noviembre
-
-PC4 dia jueves 15 de noviembre
+## AVISO IMPORTANTE PC4: Entrega el dia lunes al correo
+PC4 (https://drive.google.com/open?id=15IutSB-b4Ty6D06xMFy3lAnkaRkVWett)
