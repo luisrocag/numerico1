@@ -13,5 +13,4 @@ Data (https://www.mathstat.dal.ca/~iron/math3210/hw4data)
 
 [Laboratorio 4: Factorizaciones ortogonales](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio4.ipynb)
 
-## AVISO IMPORTANTE PC4: Entrega el dia lunes al correo
-PC4 (https://drive.google.com/open?id=15IutSB-b4Ty6D06xMFy3lAnkaRkVWett)
+[Laboratorio 6: Ecuaciones no lineales](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio6.ipynb)
