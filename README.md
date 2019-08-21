@@ -8,6 +8,7 @@ sudo apt install python3-pip python3-dev
 sudo -H pip3 install --upgrade pip
 sudo -H pip install jupyter
 sudo -H pip install numpy
+sudo -H pip install matplotlib
 jupyter notebook
 ```
 [Laboratorio 1: Errores](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio1.ipynb)
