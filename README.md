@@ -21,6 +21,6 @@ Data (https://www.mathstat.dal.ca/~iron/math3210/hw4data)
 
 [Laboratorio 3: Factorización LU](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio3.ipynb)
 
-[Laboratorio 4: Factorizaciones ortogonales](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio4.ipynb)
+[Laboratorio 4: Factorizaciones ortogonales](https://github.com/luisrocag/numerico1/blob/master/factorizaciones/factorizaciones_matriciales.ipynb)
 
 [Laboratorio 6: Ecuaciones no lineales](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio6.ipynb)
