@@ -23,4 +23,6 @@ Data (https://www.mathstat.dal.ca/~iron/math3210/hw4data)
 
 [Laboratorio 4: Factorizaciones ortogonales](https://github.com/luisrocag/numerico1/blob/master/factorizaciones/factorizaciones_matriciales.ipynb)
 
+[Laboratorio 5: Metodos de Jacobi -- Gauss-Seidel](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio5.ipynb)
+
 [Laboratorio 6: Ecuaciones no lineales](http://nbviewer.jupyter.org/github/luisrocag/numerico1/blob/master/laboratorio6.ipynb)
