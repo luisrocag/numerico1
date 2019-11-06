@@ -25,4 +25,4 @@ Data (https://www.mathstat.dal.ca/~iron/math3210/hw4data)
 
 [Laboratorio 5: Metodos de Jacobi -- Gauss-Seidel](https://github.com/luisrocag/numerico1/blob/master/laboratorio5.ipynb)
 
-[Laboratorio 6: Ecuaciones no lineales](https://github/luisrocag/numerico1/blob/master/laboratorio6.ipynb)
+[Laboratorio 6: Ecuaciones no lineales](https://github.com/luisrocag/numerico1/blob/master/laboratorio6.ipynb)
